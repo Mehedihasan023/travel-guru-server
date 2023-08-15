@@ -2,26 +2,31 @@
     {
         "id": "1",
         "name": "Cox's Bazar",
-        "image": "https://qph.cf2.quoracdn.net/main-qimg-786b77caa35e467bc208bc0fe01e87e8-lq"
+        "image": "https://qph.cf2.quoracdn.net/main-qimg-786b77caa35e467bc208bc0fe01e87e8-lq",
+        "decription": "Cox's Bazar, nestled along the southeastern coastline of Bangladesh, is a captivating destination that boasts a stunning combination of natural beauty, pristine beaches, and a rich cultural tapestry. With a shoreline that stretches for over 120 kilometers along the Bay of Bengal, Cox's Bazar is home to one of the longest unbroken sandy beaches in the world, offering visitors a mesmerizing blend of sun, sea, and serenity.The golden sands of Cox's Bazar are a paradise for beach lovers, where gentle waves lap against the shore, creating a soothing melody that accompanies the spectacular sunsets."
     },
     {
         "id": "2",
         "name": "Sundarbans",
-        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/65/03/8c/sundarban.jpg?w=1200&h=1200&s=1"
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/65/03/8c/sundarban.jpg?w=1200&h=1200&s=1",
+        "decription": "The Sundarbans, a UNESCO World Heritage Site straddling the delta of the Ganges, Brahmaputra, and Meghna rivers, is a mesmerizing mangrove forest in Bangladesh and India. Spanning across 10,000 square kilometers, its intricate network of waterways, dense foliage, and unique wildlife make it a true natural wonder. This vast wilderness is home to the elusive Bengal tiger, as well as a diverse range of flora and fauna specially adapted to its brackish waters and ever-changing tides. As one of the largest mangrove ecosystems globally, the Sundarbans is not only a crucial habitat but also a vital buffer against coastal erosion and storm surges. The combination of its ecological significance and enigmatic beauty makes the Sundarbans a captivating destination for nature enthusiasts and conservationists alike."
     },
     {
         "id": "3",
         "name": "Srimangal",
-        "image": "https://chokkor.com/wp-content/uploads/2018/10/Sreemangal-1.jpg"
+        "image": "https://chokkor.com/wp-content/uploads/2018/10/Sreemangal-1.jpg",
+        "decription": "Srimangal, a serene town nestled in the lush tea-covered hills of Bangladesh's Sylhet region, is a haven for nature lovers and adventure seekers. Known as the 'Tea Capital' of the country, Srimangal offers a picturesque landscape adorned with rolling tea estates, vibrant greenery, and misty valleys. The town is also home to some of the oldest tea gardens in Bangladesh, where visitors can immerse themselves in the tea cultivation process and savor the freshest cup of aromatic tea.Beyond its tea heritage, Srimangal boasts diverse ecosystems, including the famous Lawachara National Park. "
     },
     {
         "id": "4",
         "name": "Saint Martin's Island",
-        "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362586300.jpg?k=bccca22e00db2fb0b811ea77d405be45fe6484522048745872a2d03e35fa47ef&o=&hp=1"
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362586300.jpg?k=bccca22e00db2fb0b811ea77d405be45fe6484522048745872a2d03e35fa47ef&o=&hp=1",
+        "decription": "Saint Martin's Island, a jewel in the Bay of Bengal, is a captivating paradise located off the coast of Bangladesh. Known for its pristine beaches, azure waters, and vibrant marine life, it offers a serene escape from the bustle of everyday life. This idyllic island is a sanctuary for beach lovers, where gentle waves lap against the shore and offer a backdrop for stunning sunsets. Snorkeling and diving enthusiasts are drawn to its clear waters, where they can explore colorful coral reefs and encounter diverse underwater species. The island's laid-back ambiance, characterized by minimal development and a small local community, allows visitors to connect with nature and experience a tranquil slice of coastal life."
     },
     {
         "id": "5",
         "name": "Bandarban",
-        "image": "https://ttg.com.bd/uploads/tours/plans/204_nilgiri-bandarban-copyjpg.jpg"
+        "image": "https://ttg.com.bd/uploads/tours/plans/204_nilgiri-bandarban-copyjpg.jpg",
+        "decription": "Bandarban, nestled in the Chittagong Hill Tracts of Bangladesh, is a breathtaking haven of natural beauty and cultural diversity. With its rolling hills, lush greenery, and tribal communities, Bandarban offers a unique escape for travelers seeking an off-the-beaten-path experience. The town is surrounded by majestic landscapes, including the tallest peak in Bangladesh, Tahjindong. Trekking through the verdant hills unveils panoramic views, hidden waterfalls, and encounters with indigenous communities that share their traditions and way of life. The mesmerizing beauty of the Nafakhum Waterfall and Boga Lake adds to the allure. Beyond nature, Bandarban's vibrant markets and pagodas reflect its cultural richness, making it an enticing destination that blends adventure, culture, and natural wonders."
     }
 ]

@@ -2,7 +2,7 @@
     {
         "id": "1",
         "name": "Long Beach Hotel",
-        "image": "https://example.com/long_beach_hotel.jpg",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/284265075.jpg?k=68b41a9afb95eefdcbc2ebfe8156123382959d781c06dd97078d26e13b47a48e&o=&hp=1",
         "spots_id": "1",
         "title": "Luxury Beachfront Resort",
         "ratings": 4.8,
@@ -25,7 +25,7 @@
     {
         "id": "2",
         "name": "Grand Sultan Tea Resort & Golf",
-        "image": "https://example.com/grand_sultan_resort.jpg",
+        "image": "https://www.grandsultanresort.com/images/home/facilities/home-rooms&suites.jpg",
         "spots_id": "3",
         "title": "Tea Garden Retreat",
         "ratings": 4.7,
@@ -48,7 +48,7 @@
     {
         "id": "3",
         "name": "Island Getaway Resort",
-        "image": "https://example.com/saint_martin_resort.jpg",
+        "image": "https://i0.wp.com/theluxurytravelexpert.com/wp-content/uploads/2016/10/hermitage-bay-antigua.jpg?ssl=1",
         "spots_id": "4",
         "title": "Island Getaway",
         "ratings": 4.5,
@@ -71,7 +71,7 @@
     {
         "id": "4",
         "name": "Hillside Resort",
-        "image": "https://example.com/hillside_resort_bandarban.jpg",
+        "image": "https://hillsideresortbd.com/wp-content/uploads/2021/02/Tuntuni-03.jpg",
         "spots_id": "5",
         "title": "Hill Retreat",
         "ratings": 4.6,
@@ -93,7 +93,7 @@
     {
         "id": "5",
         "name": "Sufia Eco-Resort",
-        "image": "https://example.com/sufia_eco_resort_rangamati.jpg",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/f2/82/bc/meghadree-eco-resort.jpg?w=1200&h=-1&s=1",
         "spots_id": "2",
         "title": "Eco-friendly Retreat",
         "ratings": 4.4,
@@ -115,7 +115,7 @@
     {
         "id": "6",
         "name": "Hotel Inn",
-        "image": "https://example.com/hotel_kuakata_inn.jpg",
+        "image": "https://dhakanightout.com/wp-content/uploads/2021/12/98437038_2904979469597577_8334845403274936320_n-550x400.jpg",
         "spots_id": "2",
         "title": "Seaside Comfort",
         "ratings": 4.2,
@@ -137,7 +137,7 @@
     {
         "id": "7",
         "name": "Royal Resort",
-        "image": "https://example.com/royal_resort_sylhet.jpg",
+        "image": "https://www.bdbooking.com/upload/property/hotel/07032019074815825d1c5dbf6355c.jpg",
         "spots_id": "3",
         "title": "Sylhet Retreat",
         "ratings": 4.3,
@@ -159,7 +159,7 @@
     {
         "id": "8",
         "name": "Lake View Resort",
-        "image": "https://example.com/rangamati_lake_view_resort.jpg",
+        "image": "https://jorooms.com/hotel-images/aronnak-holiday-resort--rangamati-aronnok-4jpg-81f02acc-c2f9-4aaa-96d8-94620675d9671661063457.jpg",
         "spots_id": "1",
         "title": "Serene Lake Retreat",
         "ratings": 4.5,
@@ -180,8 +180,8 @@
     },
     {
         "id": "9",
-        "name": "Seaview Resort ",
-        "image": "https://example.com/seaview_resort_kuakata.jpg",
+        "name": "Seaview Resort",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTls54CkCfKjFDIBbECwjLAsPcPeLaHr5mMGw&usqp=CAU",
         "spots_id": "1",
         "title": "Panoramic Beach Retreat",
         "ratings": 4.3,
@@ -203,7 +203,7 @@
     {
         "id": "10",
         "name": "Pan Pacific Hotel",
-        "image": "https://example.com/pan_pacific_hotel_sylhet.jpg",
+        "image": "https://www.hotelstarpacific.com/wp-content/uploads/2020/12/crystal-premium-couple.jpg",
         "spots_id": "3",
         "title": "Modern City Stay",
         "ratings": 4.6,

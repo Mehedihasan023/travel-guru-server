@@ -18,6 +18,16 @@ app.get('/hotels',(req,res)=>{
 })
 app.get('/spots/:id',(req,res)=>{
     const id = req.params.id
+    const selectedSpots= spots.find(spot=> spot.id === id)
+    res.send(selectedSpots);
+})
+app.get('/hotels/:id', (req, res) => {
+    const id = req.params.id
+    const selectedHotels = hotels.find(hotel => hotel.id === id)
+    res.send(selectedHotels);
+})
+app.get('/spots/:id/hotels',(req,res)=>{
+    const id = req.params.id
     const availableHotels = hotels.filter(hotel => hotel.spots_id === id);
     if(availableHotels.length){
         res.send(availableHotels);
