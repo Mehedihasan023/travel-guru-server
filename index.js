@@ -1,9 +1,8 @@
 const express = require('express')
 var cors = require('cors')
 const app = express()
+const port = process.env.Port || 5000;
 app.use(cors())
-const port = 5000
-
 const spots = require('./data/spots.json');
 const hotels= require('./data/hotels.json');
 app.get('/', (req, res) => {
