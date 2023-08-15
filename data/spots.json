@@ -1,0 +1,27 @@
+[
+    {
+        "id": "1",
+        "name": "Cox's Bazar",
+        "image": "https://example.com/coxs_bazar.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Sundarbans",
+        "image": "https://example.com/sundarbans.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Srimangal",
+        "image": "https://example.com/srimangal.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Saint Martin's Island",
+        "image": "https://example.com/saint_martins_island.jpg"
+    },
+    {
+        "id": "5",
+        "name": "Bandarban",
+        "image": "https://example.com/bandarban.jpg"
+    }
+]
